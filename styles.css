@@ -1,0 +1,204 @@
+html {
+    background-color: navy;
+}
+
+.header {
+text-align: center;
+font-family: "Smokum";
+font-size: 30px;
+background-color: white;
+}
+
+.colors {
+background-size: auto;
+border: black 5px solid;
+background-color: white
+;
+margin: 10px;
+padding: 20px;
+font-weight: bold;
+font-size: 45px;
+text-align: center;
+
+}
+
+.squtxt {
+    font-family:"Special Elite";
+    margin: 10 px;
+}
+
+.colorsheader {
+    font-family: "Syne Mono";
+    font-size: 50px;
+}
+
+.squares {
+    margin: 40px;
+    text-align: center;
+    }
+
+#gold {
+background-color:gold;
+
+}
+
+#blue{
+background-color:navy;
+color: gold;
+
+}
+
+#orange {
+background-color:orange;
+
+}
+
+#green{
+background-color:olivedrab;
+
+}
+
+
+/* Font Families */  
+
+ul {
+    list-style-position: inside;
+}
+
+.styleheader {
+    font-family: "Smokum";
+    font-size: 35px;
+    text-decoration: underline;
+}
+
+#fontstitle {
+    font-family: "Special Elite";
+    font-weight: bold;
+    font-size: 50px;
+    font-style: underline;
+    text-align: center;
+}
+
+.fonts {
+    border: 1px solid black;
+    background-size: auto;
+    border: black 5px solid;
+    background-color: white;
+}
+
+p.fonts {
+    font-family: "Raleway";
+    font-size: 32px;
+}
+
+.rale {
+    background-color: gold;
+font-size: xx-large;
+font-weight: bold;
+font-family: "Raleway";
+}
+
+.ralelist {
+    font-family: "Raleway";
+}
+
+#normal {
+    font-size: x-large;
+}
+
+#bold {
+font-weight: bold;
+font-size: x-large;
+}
+
+
+#italics {
+font-style: italic;
+font-size: x-large;
+}
+
+.comic {
+    background-color: navy;
+font-family: "Comic Neue";
+font-size: xx-large;
+font-weight: bold;
+color: gold;
+}
+
+.comiclist {
+font-family: "Comic Neue";
+}
+
+.aleg {
+background-color: orange;
+font-family: "Alegreya";
+font-weight: bold;
+font-size: xx-large;
+}
+
+.aleglist {
+font-family: "Alegreya"'
+}
+
+.josef {
+    background-color: olivedrab;
+font-family: "Josefin Slab";
+font-weight: bold;
+font-size: xx-large;
+}
+
+.joseflist {
+font-family: "Josefin Slab";
+}
+
+/* Text Style */
+
+.tstyles {
+    border: 5px solid black;
+    background-color: white;
+    margin: 10px;
+    text-align: center;
+}
+
+/* Footer */
+
+footer {
+    border: 5px solid gold;
+    background-color: white;
+}
+
+.notes{
+    font-size: x-large;
+}
+
+.closer {
+    font-size: x-large;
+    display: inline;
+}
+
+.cheers {
+font-family: "Josefin Slab";
+font-weight: bold;
+background-color: olivedrab;
+text-align: center;
+font-size: xx-large;
+color: gold;
+text-decoration: underline;
+}
+
+.cheers:hover {
+    color: navy;
+}
+
+
+.name {
+    font-family: "Josefin Slab";
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+.signature {
+font-family: "Cedarville Cursive";
+margin-left: 20px;
+}
+
